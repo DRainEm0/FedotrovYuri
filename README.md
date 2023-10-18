@@ -1,4 +1,4 @@
 # FedotrovYuri
-https://media.tenor.com/UdX-_wwJpGIAAAAC/touhou-fumo.gif
+![image]https://media.tenor.com/UdX-_wwJpGIAAAAC/touhou-fumo.gif
 
 repository for college work
